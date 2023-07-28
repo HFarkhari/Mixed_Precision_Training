@@ -41,7 +41,7 @@ In this repository, we focus on the following aspects:
 
 6. Training BERT Model: We go beyond simple examples and train/fine-tune BERT models from scratch in MLM (Masked Language Model) and NSP (Next Sentence Prediction) modes. We compare GPU VRAM and training time requirements for each method.
 
-7. Tensor Float 32 (TF32) Capability: We apply the methods on custom-designed deep networks to exploit the Tensor Float 32 (TF32) capability in Nvidia Ampere GPUs.
+7. Tensor Float 32 (TF32) Capability: We apply the methods on custom-designed deep networks to exploit the Tensor Float 32 capability in Nvidia Ampere GPUs.
 
 9. Tips and Tricks: For each method, we share tips and tricks to achieve optimal results.
 
