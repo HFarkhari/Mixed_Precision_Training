@@ -1,1 +1,1 @@
-
+This repository integrates the powerful SophiaG optimizer into our codebase, allowing us to benefit from its advanced features. The Sophia.py script from Liuhong99/Sophia is utilized for seamless integration and evaluation of the optimizer's performance in our projects. SophiaG is known for its efficiency and optimization capabilities, making it an excellent addition to our development workflow.
