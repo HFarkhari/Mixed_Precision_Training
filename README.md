@@ -18,7 +18,7 @@ In the `BERT_MLM_NSP_fp32_fp16` directory, you will find various methods for tra
 
 ## Additional Resources
 
-For more in-depth information on training BERT from scratch, you can find helpful tutorials in this [YouTube playlist](https://youtube.com/playlist?list=PLIUOU7oqGTLgQ7tCdDT0ARlRoh1127NSO&feature=shared).
+For more in-depth information on training BERT from scratch, you can find helpful tutorials from [James Briggs](https://youtube.com/playlist?list=PLIUOU7oqGTLgQ7tCdDT0ARlRoh1127NSO&feature=shared).
 
 
 ## Introduction
@@ -37,7 +37,7 @@ In this repository, we focus on the following aspects:
 
 4. PyTorch 2.x Compile Method: We explore the compile method in PyTorch 2.x for mixed precision training.
 
-5. Sophia Optimizer Comparison: We compare the performance in terms of training time while using the recent Sophia optimizer.
+5. Sophia Optimizer Comparison: We compare the performance in terms of training time while using the recent [Sophia optimizer](https://github.com/Liuhong99/Sophia).
 
 6. Training BERT Model: We go beyond simple examples and train/fine-tune BERT models from scratch in MLM (Masked Language Model) and NSP (Next Sentence Prediction) modes. We compare GPU VRAM and training time requirements for each method.
 
